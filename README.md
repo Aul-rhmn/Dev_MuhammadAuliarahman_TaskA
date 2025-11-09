@@ -46,7 +46,7 @@ The app retrieves the top matches from a local dataset and displays them dynamic
 
 * **Response:**
 
-  ```json
+  json
   {
     "results": [
       {
