@@ -133,6 +133,8 @@ The app retrieves the top matches from a local dataset and displays them dynamic
 
    ```bash
    npm install
+   or 
+   npm install --legacy-peer-deps
    ```
 
 3. **Run in development mode**
